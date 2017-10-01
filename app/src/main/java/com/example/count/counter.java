@@ -1,5 +1,6 @@
 package com.example.count;
 
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
@@ -99,7 +100,8 @@ public class counter {
         return this.value;
     }
     public String toString() {
-        return "Name: "+this.name+" \ninitial: "+this.init+" \ncurrent value: "+this.value+" \nlast modified: "+this.date
+        SimpleDateFormat fmt = new SimpleDateFormat("yyyy-MM-dd");
+        return "Name: "+this.name+" \ninitial: "+this.init+" \ncurrent value: "+this.value+" \nlast modified: "+fmt.format(this.date)
                 +" \ncomment: "+ this.comment;
     }
 }
