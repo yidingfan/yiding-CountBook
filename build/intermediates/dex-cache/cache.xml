@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/58ffcc539c9d92359c910ea2e352e3ceed116483/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/classes_a676c41918bd2bf058147059e92cccdf3513d6ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_89a19cd504fd9fab36c5f360a3a2dbefaeb70413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/497b1ce04aeb50c5e4018d54612a7b00585c7def/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/classes_53917193b00e8534fef72cf8118bc9449acd2ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/64df2d78f2ae9ec549364daa1c53eda74dce9554/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/classes_3925d100844b3d2361f724084beb40ad800463eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/f62aebb9edd0d4c5e46decd27d2879840d3e9557/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/classes_42487bd0fe6317b4c65fb3bb92f79ac6b73d0dc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/6cd295146dbf79febb378b4b085ed65625a46169/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/classes_3b4d3cb72d216aaf644ebd70ab13057cbf9e8986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/c56218ea2e1358e28f6a037a8cdaaf9bf3306d2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/classes_c45424eb740f6e5d7dbf8e77cf45465a6923a659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_a68ad7d34d301e75bdc5ce073345fe9bcc29f575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/gson-2.8.2_ea6968dbdcd134cda2263ff4b8e1d88a8d0790e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/625aef547f76120104b691a3ff742fcf231d09c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/classes_a9b8fa80c81d3ea3959874431024413ff3d9b0b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/e9a0f338f7fcdd6a38025da2f497000cee81398c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/classes_26f024ea9066c06462876dc55129ecb0c3382ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/c2342d7e66d23f3f0c3c688211e388ac697d3fed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/classes_212aa04911b9e97d3356fbc3c01bedfea09b932d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/65e96941011ff8dd35a5a98fdb156dec3024430b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/pre-dexed/debug/classes_6e6d466c320f7f03723680db9e6caf59ac01d78d.jar" />
+    </item>
+
+</items>
