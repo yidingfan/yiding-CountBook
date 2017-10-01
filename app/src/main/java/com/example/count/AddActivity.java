@@ -30,6 +30,7 @@ public class AddActivity extends Activity {
     private EditText nameText;
     private EditText initText;
     private EditText comText;
+    private counter newcounter;
 
     /**
      * constructor for activity
@@ -52,7 +53,7 @@ public class AddActivity extends Activity {
 
                 int init=(int) Integer.valueOf(initText.getText().toString());
                 String com=comText.getText().toString();
-                counter newcounter =new counter(name,init,com);
+                newcounter =new counter(name,init,com);
                 counters.add(newcounter);
                 saveInFile();}
                 end();

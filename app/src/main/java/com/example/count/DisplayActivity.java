@@ -36,6 +36,7 @@ public class DisplayActivity extends Activity {
     private int editLocation=-1;
     private ArrayList<counter> counters;
     private ArrayAdapter<counter> adapter;
+    private counter editCounter;
 
     /**
      * constructor of main activity
@@ -57,6 +58,7 @@ public class DisplayActivity extends Activity {
         AdapterView.OnItemClickListener mMessageClickedHandler = new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView parent, View v, int position, long id) {
                 // Do something in response to the click
+                editCounter=counters.get(position);
                 editLocation=position;
             }
         };
@@ -88,8 +90,8 @@ public class DisplayActivity extends Activity {
             public void onClick(View v) {
                 if (editLocation != -1){
                     setResult(RESULT_OK);
-                    counter s=counters.get(editLocation);
-                    s.increase();
+
+                    editCounter.increase();
                     saveInFile();
                     adapter.notifyDataSetChanged();
                 }
@@ -101,8 +103,7 @@ public class DisplayActivity extends Activity {
             public void onClick(View v) {
                 if (editLocation != -1){
                     setResult(RESULT_OK);
-                    counter s=counters.get(editLocation);
-                    s.decrease();
+                    editCounter.decrease();
                     adapter.notifyDataSetChanged();
                     saveInFile();
                 }
@@ -126,9 +127,9 @@ public class DisplayActivity extends Activity {
             public void onClick(View v) {
                 if (editLocation != -1){
                     setResult(RESULT_OK);
-                    counter s=counters.get(editLocation);
-                    int init=s.getInit();
-                    s.setValue(init);
+
+                    int init=editCounter.getInit();
+                    editCounter.setValue(init);
                     adapter.notifyDataSetChanged();
                     saveInFile();
                 }
