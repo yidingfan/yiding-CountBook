@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/count.iml" filepath="$PROJECT_DIR$/count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yiding-CountBook.iml" filepath="$PROJECT_DIR$/yiding-CountBook.iml" />
     </modules>
   </component>
 </project>

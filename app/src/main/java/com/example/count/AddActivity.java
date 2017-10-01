@@ -20,12 +20,21 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+
+/**
+ * activity for add a new counter
+ */
 public class AddActivity extends Activity {
     private static final String FILENAME = "file.sav";
     private ArrayList<counter> counters;
     private EditText nameText;
     private EditText initText;
     private EditText comText;
+
+    /**
+     * constructor for activity
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -38,19 +47,29 @@ public class AddActivity extends Activity {
 
             public void onClick(View v) {
                 setResult(RESULT_OK);
+                if (!(initText.getText().toString().equals("")) && !(nameText.getText().toString().equals(""))){
                 String name=nameText.getText().toString();
+
                 int init=(int) Integer.valueOf(initText.getText().toString());
                 String com=comText.getText().toString();
                 counter newcounter =new counter(name,init,com);
                 counters.add(newcounter);
-                saveInFile();
+                saveInFile();}
                 end();
             }
         });
     }
+
+    /**
+     * finish the activity
+     */
     private void end(){
         this.finish();
     }
+
+    /**
+     * load the old counters
+     */
     private void loadFromFile() {
         try {
             FileInputStream fis=openFileInput(FILENAME);
@@ -71,6 +90,10 @@ public class AddActivity extends Activity {
             throw new RuntimeException();
         }
     }
+
+    /**
+     * save the result to file
+     */
     private void saveInFile() {
         try {
             FileOutputStream fos = openFileOutput(FILENAME,
@@ -90,6 +113,10 @@ public class AddActivity extends Activity {
             throw new RuntimeException();
         }
     }
+
+    /**
+     * load file when start
+     */
     @Override
     protected void onStart() {
         // TODO Auto-generated method stub

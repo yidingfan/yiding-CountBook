@@ -25,7 +25,9 @@ import java.util.ArrayList;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
-
+/**
+ * Main activity
+ */
 public class DisplayActivity extends Activity {
     private static final String FILENAME = "file.sav";
     public static final String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
@@ -34,6 +36,11 @@ public class DisplayActivity extends Activity {
     private int editLocation=-1;
     private ArrayList<counter> counters;
     private ArrayAdapter<counter> adapter;
+
+    /**
+     * constructor of main activity
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -130,15 +137,28 @@ public class DisplayActivity extends Activity {
         });
 
     }
+
+    /**
+     * intent method to switch edit activity
+     */
     public void edit_intent(){
         Intent intent = new Intent(this, EditActivity.class);
         intent.putExtra(EXTRA_MESSAGE, editLocation);
         startActivityForResult(intent,RESULT_OK);
     }
+
+    /**
+     * intent method to switch add activity
+     * @param view
+     */
     public void add_intent(View view) {
         Intent intent = new Intent(this, AddActivity.class);
         startActivityForResult(intent,RESULT_OK);
     }
+
+    /**
+     * load the old file if exist
+     */
     private void loadFromFile() {
         try {
             FileInputStream fis=openFileInput(FILENAME);
@@ -159,6 +179,10 @@ public class DisplayActivity extends Activity {
             throw new RuntimeException();
         }
     }
+
+    /**
+     * save the current counters into file
+     */
     private void saveInFile() {
         try {
             FileOutputStream fos = openFileOutput(FILENAME,
@@ -178,6 +202,10 @@ public class DisplayActivity extends Activity {
             throw new RuntimeException();
         }
     }
+
+    /**
+     * start the activity and create the adapter
+     */
     @Override
     protected void onStart() {
         // TODO Auto-generated method stub

@@ -22,6 +22,10 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+
+/**
+ * Edit activity
+ */
 public class EditActivity extends Activity {
     private static final String FILENAME = "file.sav";
     private int editLocation=0;
@@ -31,6 +35,11 @@ public class EditActivity extends Activity {
     private EditText initText;
     private EditText curText;
     private EditText comText;
+
+    /**
+     * constructor of edit activity
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -62,9 +71,17 @@ public class EditActivity extends Activity {
 
 
     }
+
+    /**
+     * end this activity
+     */
     private void end(){
         this.finish();
     }
+
+    /**
+     * load the counters
+     */
     private void loadFromFile() {
         try {
             FileInputStream fis=openFileInput(FILENAME);
@@ -85,6 +102,10 @@ public class EditActivity extends Activity {
             throw new RuntimeException();
         }
     }
+
+    /**
+     * save the result into file
+     */
     private void saveInFile() {
         try {
             FileOutputStream fos = openFileOutput(FILENAME,
@@ -104,6 +125,10 @@ public class EditActivity extends Activity {
             throw new RuntimeException();
         }
     }
+
+    /**
+     * start activity by get the counter want to edit
+     */
     @Override
     protected void onStart() {
         // TODO Auto-generated method stub
