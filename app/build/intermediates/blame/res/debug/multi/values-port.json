@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/625aef547f76120104b691a3ff742fcf231d09c8/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

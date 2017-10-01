@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/d65a70ac400e54e5a4bf029352a106f52fa5abfe/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
