@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -1396,7 +1396,7 @@
                     "endOffset": 6230
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/colors.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1415,7 +1415,7 @@
                     "endOffset": 6277
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/colors.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1434,7 +1434,7 @@
                     "endOffset": 6328
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/colors.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4968,7 +4968,7 @@
                     "endOffset": 43869
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/strings.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4987,7 +4987,7 @@
                     "endOffset": 43923
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/strings.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -5006,7 +5006,7 @@
                     "endOffset": 43975
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/strings.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -5025,7 +5025,7 @@
                     "endOffset": 44029
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/strings.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -5044,7 +5044,7 @@
                     "endOffset": 44083
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/strings.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -5063,7 +5063,7 @@
                     "endOffset": 44138
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/strings.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -5082,7 +5082,7 @@
                     "endOffset": 44184
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/strings.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -5101,7 +5101,7 @@
                     "endOffset": 44226
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/strings.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -5120,7 +5120,7 @@
                     "endOffset": 44268
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/strings.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -5177,7 +5177,7 @@
                     "endOffset": 44434
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/strings.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -5273,7 +5273,7 @@
                     "endOffset": 45105
                 },
                 "from": {
-                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/src/main/res/values/styles.xml",
+                    "file": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

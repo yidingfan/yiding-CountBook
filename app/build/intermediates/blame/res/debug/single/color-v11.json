@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/625aef547f76120104b691a3ff742fcf231d09c8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/625aef547f76120104b691a3ff742fcf231d09c8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/afs/ualberta.ca/home/y/i/yiding/Desktop/ass1/yiding-CountBook/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/625aef547f76120104b691a3ff742fcf231d09c8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/afs/ualberta.ca/home/y/i/yiding/Desktop/test/yiding-CountBook/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/afs/ualberta.ca/home/y/i/yiding/.android/build-cache/625aef547f76120104b691a3ff742fcf231d09c8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]
