@@ -56,6 +56,7 @@ public class EditActivity extends Activity {
             public void onClick(View v) {
                 setResult(RESULT_OK);
                 String name=nameText.getText().toString();
+                if (!(initText.getText().toString().equals(""))&&!(curText.getText().toString().equals(""))){
                 int init=(int) Integer.valueOf(initText.getText().toString());
                 int cur=(int) Integer.valueOf(curText.getText().toString());
                 String com=comText.getText().toString();
@@ -64,7 +65,7 @@ public class EditActivity extends Activity {
                 editCounter.setInit(init);
                 editCounter.setValue(cur);
                 editCounter.setName(name);
-                saveInFile();
+                saveInFile();}
                 end();
             }
         });
